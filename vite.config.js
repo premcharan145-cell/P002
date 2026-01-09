@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   base: '/P002/',
   build: {
-    outDir: 'dist',
+    outDir: 'docs',
     sourcemap: true
   }
 })
